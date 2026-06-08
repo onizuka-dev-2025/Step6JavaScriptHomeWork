@@ -1,4 +1,4 @@
-# Video Hero Sample
+# Counter Sample
 
 カウンター機能を実装したサンプルサイトです。
 
